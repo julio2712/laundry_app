@@ -1,7 +1,7 @@
 # Laundry App
 Sistem informasi laundry ini berfungsi mempermudah hubungan komunikasi antar customer dan admin
 
-aku ubah ya
+
 ## User:
 1. Admin
 2. User

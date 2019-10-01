@@ -16,5 +16,6 @@ Fitur dari web laundry app ini adalah
 Fitur dari mobile laundry app ini adalah
 1. Login
 2. Status cucian
-3. Option pengantaran
+3. Antar jemput cucian
 4. Contact person/kurir
+5. Tarif laundry yang sedang di Pesan

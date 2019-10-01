@@ -22,7 +22,8 @@ Fitur dari mobile laundry app ini adalah
 Admin: 
 1. Perbarui status cucian
 2. Terima data laundry yang akan diantar/jemput
-User
+
+User:
 1. Login
 2. Status cucian
 3. Antar jemput cucian

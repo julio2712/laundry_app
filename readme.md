@@ -4,16 +4,25 @@ Sistem informasi laundry ini berfungsi mempermudah hubungan komunikasi antar cus
 
 ## Web
 Fitur dari web laundry app ini adalah
-1. Login 
-2. Daftar Harga
-3. Pengisian Data dan Pengeditan data
-4. Estimasi waktu
-5. QR code ke app
+
+Admin:
+1. Login
+2. Pengisian Data dan Pengeditan data (Admin)
+3. Estimasi waktu
+
+User:
+1. Lihat Daftar Harga
+2. QR code ke App
 
 
 ## Mobile
 
 Fitur dari mobile laundry app ini adalah
+
+Admin: 
+1. Perbarui status cucian
+2. Terima data laundry yang akan diantar/jemput
+User
 1. Login
 2. Status cucian
 3. Antar jemput cucian

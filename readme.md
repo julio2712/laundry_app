@@ -1,3 +1,7 @@
+# ERD 
+![ERD LaundryApp](erd.png)
+
+
 # Laundry App
 Sistem informasi laundry ini berfungsi mempermudah hubungan komunikasi antar customer dan admin
 
@@ -10,16 +14,17 @@ Sistem informasi laundry ini berfungsi mempermudah hubungan komunikasi antar cus
 Fitur dari web laundry app ini adalah
 
 Admin:
-1. Lihat Data Pelanggan
+1. Lihat Data Pelanggan dan 
 2. Input data pelanggan
 3. Input Permintaan Laundry
-    - nama
-    - alamat
-    - telepon
-    - jumlah kg
+    - Nama
+    - Alamat
+    - Telepon
+    - Tipe Laundry (Express dll)
+    - Jumlah kg
     - Jumlah pcs
-    - jenis cucian
-    - estimasi waktu
+    - Jenis cucian
+     
 4. Menerima request jemput cucian dari user
 5. Update status cuciannya
 
